@@ -1,0 +1,244 @@
+*******************************************************************************
+								BLUE FORCE (BLUEFOR)
+*******************************************************************************
+
+*	Carrier Strike Group 1 (CSG-1 or CARSTRKGRU 1)
+	*	Flagship
+		**	USS Carl Vinson (CVN-70)
+			*** Carrier Air Wing Seventeen (CVW-17)
+				>	Fighter Squadron 51 (VF-51)
+					>> 12 F-14B
+						>>> 100	- CO
+						>>> 101	- XO
+						>>> 102
+						>>> 103
+						>>> 104
+						>>> 105
+						>>> 106
+						>>> 107
+						>>> 108
+						>>> 109
+						>>> 110
+						>>> 111
+				>	Fighter Squadron 111 (VF-111)
+					>> 12 F-14B
+						>>> 200	- CAG/CO
+						>>> 201	- XO
+						>>> 202
+						>>> 203
+						>>> 204
+						>>> 205
+						>>> 206
+						>>> 207
+						>>> 208
+						>>> 209
+						>>> 210
+						>>> 211
+				>	Strike Fighter Squadron 113 (VFA-113)
+					>>	10 F/A-18C
+						>>> 300	- CO
+						>>> 301	- XO
+						>>> 302
+						>>> 303
+						>>> 304
+						>>> 305
+						>>> 306
+						>>> 307
+						>>> 308
+						>>> 309
+				>	Strike Fighter Squadron 94 (VFA-94)
+					>>	10 F/A-18C
+						>>> 400	- CO
+						>>> 401	- XO
+						>>> 402
+						>>> 403
+						>>> 404
+						>>> 405
+						>>> 406
+						>>> 407
+						>>> 408
+						>>> 409
+				>	Carrier Airborne Early Warning Squadron 116 (VAW-116)
+					>>	4 E-2C
+						>>> 600 - CO
+						>>> 601	- XO
+						>>> 602
+						>>> 603		(Overlord)
+				>	Fleet Logistics Support Squadron 30 (VRC-30)
+					>>	2 C-2A
+						>>>	20
+						>>>	21
+	*	Guided-Missle Cruisers
+		**	USS Lake Champlain (CG-57)
+	*	Destroyer Squadron 21
+		**	USS Wayne E. Meyer (DDG-108)
+		**	USS Michael Murphy (DDG-112)
+*	Carrier Strike Group 3 (CSG-3 or CARSTRKGRU 3)
+	*	Flagship 
+		**	USS John C. Stennis (CVN-74)
+			***	Carrier Air Wing Nine (CVW-9)
+				>	Strike Fighter Squadron 146 (VFA-146)
+					>>	12 FA-18C Hornet
+						>>>	300	- CO
+						>>>	301	- XO
+						>>>	302 
+						>>>	303
+						>>>	304
+						>>>	305
+						>>>	306
+						>>>	307
+						>>>	308
+						>>>	309
+						>>>	310
+						>>>	311
+						>>>	312
+				>	Strike Fighter Squadron 147 (VFA-147)
+					>>	12 FA-18C(N) Hornet
+						>>>	400	- CAG/CO
+						>>>	401	- XO
+						>>>	402 
+						>>>	403
+						>>>	404
+						>>>	405
+						>>>	406
+						>>>	407
+						>>>	408
+						>>>	409
+						>>>	410
+						>>>	411
+						>>>	412
+				>	Marine Attack Fighter Squadron 323 (VMFA-323) - DEATH RATTLERS
+					>>	12 FA-18C(N) Hornet
+						>>>	400	- CO
+						>>>	401	- XO			(Boxcar 11)
+						>>>	402 				(Boxcar 12)
+						>>>	403
+						>>>	404
+						>>>	405
+						>>>	406
+						>>>	407
+						>>>	408
+						>>>	409
+						>>>	410
+						>>>	411
+						>>>	412
+				>	Electronic Attack Squadron 138 (VAQ-138)
+					>> 	4 EA-6B Prowler
+						>>>	500 - CO
+						>>>	501 - XO
+						>>>	502
+						>>>	503
+				>	Carrier Airborne Early Warning 112 (VAW-112)
+					>>	4 E-2C Hawkeye NP
+						>>>	600
+						>>>	601
+						>>>	602
+						>>>	603
+				>	Sea Control Squadron 31 (VS-31)
+					>>	8 S-3B Viking
+						>>>	700	-	CO
+						>>>	701	-	XO
+						>>>	702
+						>>>	703
+						>>>	704
+						>>>	705
+						>>>	706
+						>>>	707
+				>	Helicopter Squadron 8 (HS-8)
+					>>	2 HH-60H Seahawk & 4 SH-60F Seahawk
+						>>>	3
+						>>>	8	- CO/XO
+						>>>	13
+						>>>	20
+						>>>	1a
+						>>>	2a
+				>	Fleet Logistics Support Squadron 40 (VRC-40), Det. 4
+					>>	4 C-2A Greyhound
+						>>>	40
+						>>>	41
+						>>>	42
+						>>>	43
+	*	Guided-Missle Cruisers
+		**	USS Shiloh (CG-67)
+	*	Destroyer Squadron 21
+		**	USS Gary (FFG-51)
+		**	USS Ford (FFG-54)
+
+*	Colition Forces (Al Minhad AB)
+	* 	US Central Command (CENTCOM)
+		**	USAF
+			***	ATTACK
+				>	A-10s (12)
+					>>	0939
+					>>	0942
+					>>	0944
+					>>	0948
+					>>	0953
+					>>	0957
+					>>	0961
+					>>	0965
+					>>	0969
+					>>	0970
+					>>	0977
+					>>	0981
+			***	FIGHTERS
+				>	F-16s (12) 
+					>>	422
+					>>	432
+					>>	436
+					>>	437
+					>>	438
+					>>	467
+					>>	500
+					>>	508
+					>>	2048
+					>>	2067
+					>>	2092
+					>>	2119
+				>	F-15s (12)
+					>>	80-0004
+					>>	80-0022
+					>>	80-0060
+					>>	81-0023
+					>>	81-0063
+					>>	83-0026
+					>>	83-0046
+					>>	83-0050
+					>>	85-0118
+					>>	85-0127
+					>>	86-0164
+					>>	86-0165
+			*** AWACS
+				>	2 E-3 (965th Airborne Air Control Squadron)
+					>>	0007
+					>>	0560				(Darkstar)
+			*** TANKERS
+				> KC-135
+					>>	00319
+					>>	91470
+			***	AIRLIFT
+				> C-17 (15th AW)
+					>>	5151 (15th AW)
+					>>	7172 (80th AMW)
+					>>	1105 (62th AW)
+					>>	7187 (315th AW)
+				> C-130
+					>>	85726
+					>>	1534
+					>>	9105
+					>>	6702
+		**	USMC
+			***	A/V-8B Squadrons
+				> VMA-513 - Flying Nightmares
+					>>	161396
+					>>	161397 
+					>>	161398 
+					>>	161398 
+					>>	161574 
+					>>	165391
+					>>	165398
+					>>	165397
+					>>	165307
+					>>	161584 
+					>>	161576 
+					>>	161577 

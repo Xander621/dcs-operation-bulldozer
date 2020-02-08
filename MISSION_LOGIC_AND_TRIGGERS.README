@@ -1,0 +1,26 @@
+*******************************************************************************
+							MISSION LOGIC & TRIGGERS
+*******************************************************************************
+
+AZ_10NM
+	* Abu Musa Island
+		> FLAG:	100
+	* Farur Island
+		> FLAG:	110
+	* Kish Island
+		> FLAG:	120
+	* Tunb Island
+		> FLAG:	130
+	* Tunb Kochak Island
+		> FLAG:	140
+	* Sirri Island
+		> FLAG:	150
+
+AZ_50NM
+	* Bandar Abbas Intl Airport
+	* Bandar-e-Jask Airfield
+	* Jiroft Airport
+	* Kerman Airport
+	* Kish Intl Airport
+	* Lar Airbase
+	* Shiraz Intl Airport
